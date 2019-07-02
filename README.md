@@ -2,9 +2,11 @@
 ## Introduction
 This is a simple website showing how git works
 
-## Purpose
+## Purpos 
+Here is some more 
 
 ## Deployment
+Here is stuff on the deployment
 
 ## How to Contribute
 
