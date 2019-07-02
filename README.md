@@ -1,5 +1,6 @@
 # Starter Web Repo
 ## Introduction
+This is a simple website showing how git works
 
 ## Purpose
 
