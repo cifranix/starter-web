@@ -1,6 +1,6 @@
 # Starter Web Repo
 ## Introduction
-This is a simple website showing how git works
+This is a simple website showing how git works, more changes from myfeature branch too
 
 ## Purpos 
 Here is some more 
