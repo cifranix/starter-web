@@ -15,6 +15,7 @@ and a little more
 This repository is for showing how Git and GitHub work
 
 ## Purpose
+More TEXT
 
 Sample website with plenty of files for demos
 Please fork this repository and then issue Pull Requests for review.
